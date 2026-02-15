@@ -1,0 +1,30 @@
+# Python project patterns
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Virtual environment
+venv/
+.env
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Local configuration
+*.local
+*.sqlite3
+
+# mypy
+.mypy_cache/
